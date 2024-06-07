@@ -1,31 +1,49 @@
 
-<!--[![Imjae's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imjaehy0b&layout=compact&theme=nord&hide_border=true&langs_count=10)](https://github.com/imjaehy0b/github-readme-stats)-->
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20imjaehy0b&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+
+
+<div align=center>
+<!--소개-->
+ 
+## Introduction :raised_hands:
+I am trying to improve better than yesterday.😎
+<br/><br/>
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
- 
-<!--  <a href="https://github.com/jiholee0">
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jiholee0&theme=light&height=400&width=400&bg_color=white&title_color=2f80ed&color=2f80ed&line=2f80ed&point=1074b8&custom_title=jiholee0's%20Contribution%20Graph&area=true&hide_border=true&font_color=2f80ed&font_weight=bold" />
-  </a> -->
- 
-<br>
 
- 
-####  :clipboard: front
+</br></br>
+
+<!--기술스택-->
+## :clipboard: Skill
   
- <br/>
-  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
- <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=black"> 
+<!--프론트엔드-->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">          <!--html-->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">            <!--CSS-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><!--JS-->
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">        <!--Vue-->
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">          <!--React-->
+<img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=black">            <!--SCSS-->
 
-####  :clipboard: back
+<!--백엔드-->
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">            <!--JAVA-->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">        <!--Spring-->
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><!--SpringBoot-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">          <!--MySQL-->
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">      <!--MariaDB-->
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+<br/><br/>
+<!-- 툴 목록 -->
 
-
-
-####  :clipboard: Tools
+##  :hammer_and_wrench: Tools
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/GitKraken-4FC08D?style=for-the-badge&logo=GitKraken&logoColor=white">
- 
 
+</br></br>
+<!--알고리즘 -->
+
+## :pencil2: Problem Solving
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae950)](https://solved.ac/imjaehy0b)
+
+</div>
 
  
