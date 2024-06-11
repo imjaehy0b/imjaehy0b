@@ -46,7 +46,7 @@ I am trying to improve better than yesterday.😎
 <!--알고리즘 -->
 
 ## :pencil2: Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imjae950)](https://solved.ac/imjaehy0b)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jae0662)](https://solved.ac/jae0662)
 
 </div>
 
