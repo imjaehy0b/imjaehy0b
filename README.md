@@ -7,7 +7,7 @@
 <!--소개-->
  
 ## Introduction :raised_hands:
-I am trying to improve Better today than  were yesterday.
+### <strong>I am trying to improve Better today than  were yesterday.<strong>
 
 2024.05 ~ Present - (Private) <br>
 2023.08 ~ 2023.10 - Creativehill
