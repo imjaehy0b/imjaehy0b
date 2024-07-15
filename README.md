@@ -7,10 +7,12 @@
 <!--소개-->
  
 ## Introduction :raised_hands:
-### <strong>I am trying to improve Better today than  were yesterday.<strong>
 
+### <strong>I am trying to improve Better today than  were yesterday.<strong>
+### Work experience
 2024.05 ~ Present - (Private) <br>
 2023.08 ~ 2023.10 - Creativehill
+
 
 <br/><br/>
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
