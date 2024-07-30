@@ -15,7 +15,7 @@
 
 
 <br/><br/>
-[![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
+[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
 
 </br></br>
 
