@@ -11,7 +11,7 @@
 ### <strong>I am trying to improve Better today than  were yesterday.<strong>
 ### Work experience
 2024.05 ~ Present - (Private) <br>
-2023.08 ~ 2023.10 - Creativehill
+2023.08 ~ 2023.10 - (주)Creativehill : Back-End
 
 
 <br/><br/>
