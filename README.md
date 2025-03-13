@@ -23,12 +23,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">                 <!--html-->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">                   <!--CSS-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">       <!--JS-->
-<!--<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">-->                  <!--Vue-->
+<!--<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">-->           <!--Vue-->
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">                 <!--React-->
 <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=black">                   <!--SCSS-->
 <!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">-->   <!--Tailwind--> 
 
-<br>
+</br>
 
 <!--백엔드-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">                   <!--JAVA-->
@@ -52,7 +52,7 @@
 <!--알고리즘 -->
 
 ## :pencil2: ETC
-[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
+[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jae0662)](https://solved.ac/jae0662) 
 
 </div>
