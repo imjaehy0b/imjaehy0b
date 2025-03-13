@@ -14,9 +14,6 @@
 2023.08 ~ 2023.10 - (주)Creativehill : Full-Stack
 
 
-<br/><br/>
-[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
-
 </br></br>
 
 <!--기술스택-->
@@ -54,8 +51,9 @@
 </br></br>
 <!--알고리즘 -->
 
-## :pencil2: Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jae0662)](https://solved.ac/jae0662)
+## :pencil2: ETC
+[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jae0662)](https://solved.ac/jae0662) 
 
 </div>
 
