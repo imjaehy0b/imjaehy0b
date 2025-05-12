@@ -44,7 +44,7 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">               <!--github-->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">                 <!--Figma-->
-<img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellij idea&logoColor=white"> <!--intellij-->
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">   <!--intellij-->
 <img src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">        <!--VSC-->
 <img src="https://img.shields.io/badge/GitKraken-4FC08D?style=for-the-badge&logo=GitKraken&logoColor=white">         <!--GitKraken-->
 
