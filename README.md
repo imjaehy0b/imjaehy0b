@@ -55,6 +55,7 @@
 ## :pencil2: ETC
 <!--[![jaehyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaehy0b&theme=nord&hide_border=true&count_private=true)](https://github.com/imjaehy0b/github-readme-stats)</br>-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jae0662)](https://solved.ac/jae0662) 
+<img src="http://mazandi.herokuapp.com/api?handle=jae0662&theme=cold"/>  
 
 </div>
 
