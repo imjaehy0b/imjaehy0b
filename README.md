@@ -18,18 +18,8 @@
 
 <!--기술스택-->
 ## :clipboard: Skill
-  
-<!--프론트엔드-->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">                 <!--html-->
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">                   <!--CSS-->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">       <!--JS-->
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">                  <!--Vue-->
-<!--<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">-->          <!--React-->
-<img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=black">                   <!--SCSS-->
-<!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">-->   <!--Tailwind--> 
 
-</br>
-
+### ✔️BackEnd
 <!--백엔드-->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">                   <!--JAVA-->
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><!--Python-->
@@ -37,6 +27,19 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">       <!--SpringBoot-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">                 <!--MySQL-->
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">             <!--MariaDB-->
+
+</br>
+
+<!--프론트엔드-->
+### ✔️FrontEnd
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">                 <!--html-->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">                   <!--CSS-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">       <!--JS-->
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">                  <!--Vue-->
+<!--<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">-->          <!--React-->
+<!--<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">-->   <!--Tailwind--> 
+
+</br>
 
 <br/><br/> 
 <!-- 툴 목록 -->
